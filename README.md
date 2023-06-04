@@ -4,7 +4,7 @@ The Interdimensional-Penny is another decision-maker I created.
 It is based on an idea of mine and has been published on the website linked below for testing and entertainment purposes.
 I do not permit any use of the software beyond entertainment. I would like to emphasize here that I own pure copyright on my work and this is to be observed according to the guidelines. Thank you for your understanding and have fun with my Interdimensional-Penny.
 
-Hint: If you use a Computer, press the key "K" for more features.                                                                  
+Hint: If you use a computer, press the key "K" for more features.                                                                  
 
 Website: https://asukiaoyama.github.io/Interdimensional-Penny/Penny
 
