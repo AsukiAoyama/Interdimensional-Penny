@@ -16,7 +16,7 @@
 
 /*****************************************Heading-Class*****************************************/
 h1{
-    animation: HeadingFade 6 s linear;
+    animation: HeadingFade 6s linear;
     transform: translate(50%, -50%);
     border: 3px solid transparent;
     position: relative;
