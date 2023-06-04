@@ -9,10 +9,10 @@ Hint: If you use a computer, press the key "K" for more features.
 Website: https://asukiaoyama.github.io/Interdimensional-Penny/Penny
 
 I don't own the rights to the pictures, so here are the links where I originally found them:	                         
-Heads-Pictrue:https://upload.wikimedia.org/wikipedia/commons/d/dc/2005_Penny_Obv_Unc_D.png                                            
-Tails-Pictrue:https://cosmosofcollectibles.com/wp-content/uploads/2021/05/01_1Cent_Memorial_Rev-22.png                                                    
-Edge-Pictrue:https://www.pixelsquid.com/png/us-penny-897289682642015329?image=G05                                                                         
-Negative-Filter:https://www4.lunapic.com/editor/?action=negative                               
+Heads-Pictrue: https://upload.wikimedia.org/wikipedia/commons/d/dc/2005_Penny_Obv_Unc_D.png                                            
+Tails-Pictrue: https://cosmosofcollectibles.com/wp-content/uploads/2021/05/01_1Cent_Memorial_Rev-22.png                                                    
+Edge-Pictrue: https://www.pixelsquid.com/png/us-penny-897289682642015329?image=G05                                                                         
+Negative-Filter: https://www4.lunapic.com/editor/?action=negative                               
 Remove-Background: https://www.remove.bg/de                                      
 
 I don't own the rights to the sound, so I will provide the link to the origin of it:                                           
